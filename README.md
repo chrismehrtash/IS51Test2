@@ -135,3 +135,4 @@ When the save button is pressed, save the items to local storage and display a t
 8. Read in the tests.json file and populate the list table with the initial tests (3) 5 pts
 9. Read items from local storage and display the items into the view 5 pts
 10. Display calculated results on the home page (see screenshot) 8 pts
+# IS51Test2
